@@ -4,7 +4,8 @@ public Boolean sumEquals(Integer a, Integer b, Integer c) {
 
 
 if(c=a+b){
-return true};
-
-else
+return true;
+}
+else{}
 return false;
+}

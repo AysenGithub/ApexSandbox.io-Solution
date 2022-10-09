@@ -3,7 +3,8 @@ public Boolean sumEquals(Integer a, Integer b, Integer c) {
 
 
 integer sum=a+b;
-if(c==sum){
+
+if(sum==c){
 return true;
 }
 else{}

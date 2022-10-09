@@ -7,7 +7,7 @@ integer sum=a+b;
 if(sum == c){
 return true;
 }
-else{}
+else{
 return false;
 }
 }
